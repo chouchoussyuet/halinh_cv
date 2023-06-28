@@ -1,1 +1,1 @@
-https://github.com/chouchoussyuet/halinh_cv.git
+https://chouchoussyuet.github.io/halinh_cv/
